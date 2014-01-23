@@ -1,0 +1,11 @@
+var struct_g_l_vertex_3_01_tex_coord_scalar_param_00_01num_tex_coord_components_param_00_01_color_sc6bc8c216da1fede53bf30c444c85c6f3 =
+[
+    [ "Color", "struct_g_l_vertex_3_01_tex_coord_scalar_param_00_01num_tex_coord_components_param_00_01_color_sc6bc8c216da1fede53bf30c444c85c6f3.html#a1561193ff065f3832d719c1bbf8027eb", null ],
+    [ "Position", "struct_g_l_vertex_3_01_tex_coord_scalar_param_00_01num_tex_coord_components_param_00_01_color_sc6bc8c216da1fede53bf30c444c85c6f3.html#a788ab1892a48df2f583db4d4e94961f3", null ],
+    [ "TexCoord", "struct_g_l_vertex_3_01_tex_coord_scalar_param_00_01num_tex_coord_components_param_00_01_color_sc6bc8c216da1fede53bf30c444c85c6f3.html#aa134bb8ae1085c8902b96ee47f68dbd6", null ],
+    [ "GLVertex", "struct_g_l_vertex_3_01_tex_coord_scalar_param_00_01num_tex_coord_components_param_00_01_color_sc6bc8c216da1fede53bf30c444c85c6f3.html#a5c963c7d3e4eea69e7e60f7ba92287a8", null ],
+    [ "GLVertex", "struct_g_l_vertex_3_01_tex_coord_scalar_param_00_01num_tex_coord_components_param_00_01_color_sc6bc8c216da1fede53bf30c444c85c6f3.html#a5ad6ae28fd7db057092fde3a75a959cf", null ],
+    [ "color", "struct_g_l_vertex_3_01_tex_coord_scalar_param_00_01num_tex_coord_components_param_00_01_color_sc6bc8c216da1fede53bf30c444c85c6f3.html#a65575c705c5d30a5803e64104847072d", null ],
+    [ "position", "struct_g_l_vertex_3_01_tex_coord_scalar_param_00_01num_tex_coord_components_param_00_01_color_sc6bc8c216da1fede53bf30c444c85c6f3.html#a4f19b355d6759c58fd77dcc4ee3e606f", null ],
+    [ "texCoord", "struct_g_l_vertex_3_01_tex_coord_scalar_param_00_01num_tex_coord_components_param_00_01_color_sc6bc8c216da1fede53bf30c444c85c6f3.html#acd4e086d2f475622f80be69b13f9ef9f", null ]
+];

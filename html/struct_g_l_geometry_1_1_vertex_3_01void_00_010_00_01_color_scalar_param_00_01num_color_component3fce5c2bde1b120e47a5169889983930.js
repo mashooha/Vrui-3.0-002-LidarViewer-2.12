@@ -1,0 +1,9 @@
+var struct_g_l_geometry_1_1_vertex_3_01void_00_010_00_01_color_scalar_param_00_01num_color_component3fce5c2bde1b120e47a5169889983930 =
+[
+    [ "Color", "struct_g_l_geometry_1_1_vertex_3_01void_00_010_00_01_color_scalar_param_00_01num_color_component3fce5c2bde1b120e47a5169889983930.html#abf2a799724e818bed274719ffb05f6fc", null ],
+    [ "Position", "struct_g_l_geometry_1_1_vertex_3_01void_00_010_00_01_color_scalar_param_00_01num_color_component3fce5c2bde1b120e47a5169889983930.html#a42311d55c4faaf8ed578f16bc375a579", null ],
+    [ "Vertex", "struct_g_l_geometry_1_1_vertex_3_01void_00_010_00_01_color_scalar_param_00_01num_color_component3fce5c2bde1b120e47a5169889983930.html#ac9cae2e606e55adaf7d9cb1d6eb11ad4", null ],
+    [ "Vertex", "struct_g_l_geometry_1_1_vertex_3_01void_00_010_00_01_color_scalar_param_00_01num_color_component3fce5c2bde1b120e47a5169889983930.html#a04afdf88a950139c9ea801dd5ca9d59f", null ],
+    [ "color", "struct_g_l_geometry_1_1_vertex_3_01void_00_010_00_01_color_scalar_param_00_01num_color_component3fce5c2bde1b120e47a5169889983930.html#a0e4829cf3d15217f84050c9716b1088e", null ],
+    [ "position", "struct_g_l_geometry_1_1_vertex_3_01void_00_010_00_01_color_scalar_param_00_01num_color_component3fce5c2bde1b120e47a5169889983930.html#a66b2dc86298081f325335887671932f4", null ]
+];

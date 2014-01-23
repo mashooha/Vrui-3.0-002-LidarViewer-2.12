@@ -1,0 +1,28 @@
+var _g_l_geometry_wrappers_8h =
+[
+    [ "glLightPosition", "_g_l_geometry_wrappers_8h.html#a922b121a40c59ea21091c42251b039b5", null ],
+    [ "glLightPosition", "_g_l_geometry_wrappers_8h.html#a2d91b06c3e05518a67cd482ac29e8cd1", null ],
+    [ "glLightPosition", "_g_l_geometry_wrappers_8h.html#a0496b90796b9e8353aa30af2484a65ca", null ],
+    [ "glLightSpotDirection", "_g_l_geometry_wrappers_8h.html#a6374aade6ccea2290c07432ccd22948c", null ],
+    [ "glNormal", "_g_l_geometry_wrappers_8h.html#a76a7214ab5e3b80136efa74900fb7c40", null ],
+    [ "glNormalPointer", "_g_l_geometry_wrappers_8h.html#aa235e15b6d1c2b8c4ad2224b7ad53fbd", null ],
+    [ "glRotate", "_g_l_geometry_wrappers_8h.html#aa8026e12a04f562c1ca9865b34225150", null ],
+    [ "glRotate", "_g_l_geometry_wrappers_8h.html#aa9cf956cf3c2cd248362704e7bd2cb1d", null ],
+    [ "glRotate", "_g_l_geometry_wrappers_8h.html#a2346cd2a6a0c88212693b22b2ff1349d", null ],
+    [ "glRotate", "_g_l_geometry_wrappers_8h.html#a55ac7ab73bb01b198f456141096d172f", null ],
+    [ "glScale", "_g_l_geometry_wrappers_8h.html#a24210525089e290f08f009e2e6e04dca", null ],
+    [ "glScale", "_g_l_geometry_wrappers_8h.html#a7f96c49b6091aa6ebaeb53bff96e6c7a", null ],
+    [ "glTexCoord", "_g_l_geometry_wrappers_8h.html#a9c76ab89ac7fee6dd743bb41f97682cb", null ],
+    [ "glTexCoord", "_g_l_geometry_wrappers_8h.html#a779b12ccb96927b61d146b1362c107fe", null ],
+    [ "glTexCoord", "_g_l_geometry_wrappers_8h.html#a9ae59a5bad60120eaa046343c08b4b4a", null ],
+    [ "glTexCoord", "_g_l_geometry_wrappers_8h.html#ab04a6dd87b59cf6899019e352b43fef3", null ],
+    [ "glTexCoordPointer", "_g_l_geometry_wrappers_8h.html#afec57979daa181a5144f019c4557b6e1", null ],
+    [ "glTranslate", "_g_l_geometry_wrappers_8h.html#aa0f2914f7c8773ea078cb46501613fb6", null ],
+    [ "glTranslate", "_g_l_geometry_wrappers_8h.html#a35429dff6629829f3acaeab07fb52500", null ],
+    [ "glVertex", "_g_l_geometry_wrappers_8h.html#a9f1d8b08ce45a4b08836efd488fa18aa", null ],
+    [ "glVertex", "_g_l_geometry_wrappers_8h.html#a92790abc46a2e558486068a7bfff3df5", null ],
+    [ "glVertex", "_g_l_geometry_wrappers_8h.html#a010aa84a6531a3bc24359e533df63f63", null ],
+    [ "glVertexPointer", "_g_l_geometry_wrappers_8h.html#a2df7717b2a8c3779bb8b4da64eeff034", null ],
+    [ "glVertexPointer", "_g_l_geometry_wrappers_8h.html#ab56a20608e853af39f7406e07816f6ea", null ],
+    [ "glVertexPointer", "_g_l_geometry_wrappers_8h.html#ad4a748cc670e8246f9d3e063bd0765de", null ]
+];

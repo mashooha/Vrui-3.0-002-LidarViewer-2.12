@@ -1,0 +1,11 @@
+var struct_g_l_geometry_1_1_vertex_3_01_tex_coord_scalar_param_00_01num_tex_coord_components_param_0a66e9ef3be79b83ebf4217ec068f8f6a =
+[
+    [ "Color", "struct_g_l_geometry_1_1_vertex_3_01_tex_coord_scalar_param_00_01num_tex_coord_components_param_0a66e9ef3be79b83ebf4217ec068f8f6a.html#afc9ed0c9aea02c3534ca7c5f0760d433", null ],
+    [ "Position", "struct_g_l_geometry_1_1_vertex_3_01_tex_coord_scalar_param_00_01num_tex_coord_components_param_0a66e9ef3be79b83ebf4217ec068f8f6a.html#a63f6630803d4de05ec934f017d275a9a", null ],
+    [ "TexCoord", "struct_g_l_geometry_1_1_vertex_3_01_tex_coord_scalar_param_00_01num_tex_coord_components_param_0a66e9ef3be79b83ebf4217ec068f8f6a.html#a3f8e0fa6dad0621a7a14b9dc6014996d", null ],
+    [ "Vertex", "struct_g_l_geometry_1_1_vertex_3_01_tex_coord_scalar_param_00_01num_tex_coord_components_param_0a66e9ef3be79b83ebf4217ec068f8f6a.html#a11f460256cc643dae4c6e9c12d2b5398", null ],
+    [ "Vertex", "struct_g_l_geometry_1_1_vertex_3_01_tex_coord_scalar_param_00_01num_tex_coord_components_param_0a66e9ef3be79b83ebf4217ec068f8f6a.html#a37ae8e3870ba0bf4f4093dde9ca11066", null ],
+    [ "color", "struct_g_l_geometry_1_1_vertex_3_01_tex_coord_scalar_param_00_01num_tex_coord_components_param_0a66e9ef3be79b83ebf4217ec068f8f6a.html#a1a8f0d54fcbdd5d34d7d36802872ca28", null ],
+    [ "position", "struct_g_l_geometry_1_1_vertex_3_01_tex_coord_scalar_param_00_01num_tex_coord_components_param_0a66e9ef3be79b83ebf4217ec068f8f6a.html#a209883c83d40c4ff0d16e798e4632062", null ],
+    [ "texCoord", "struct_g_l_geometry_1_1_vertex_3_01_tex_coord_scalar_param_00_01num_tex_coord_components_param_0a66e9ef3be79b83ebf4217ec068f8f6a.html#accb385c6ce7df6f35b58c3dd270e0a59", null ]
+];

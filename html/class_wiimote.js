@@ -1,0 +1,47 @@
+var class_wiimote =
+[
+    [ "EventCallbackData", "class_wiimote_1_1_event_callback_data.html", "class_wiimote_1_1_event_callback_data" ],
+    [ "IRTarget", "struct_wiimote_1_1_i_r_target.html", "struct_wiimote_1_1_i_r_target" ],
+    [ "AxisMap", "class_wiimote.html#a0b0e930998b27523a82c69eb2fd981f4", null ],
+    [ "Vector", "class_wiimote.html#a626c97848228d61cbcc03736121df4a6", null ],
+    [ "Button", "class_wiimote.html#ab0237d4cb0460413557d94f439ab7eb8", [
+      [ "BUTTON_TWO", "class_wiimote.html#ab0237d4cb0460413557d94f439ab7eb8a6048b4773fc01133167284d4daa5d1e6", null ],
+      [ "BUTTON_ONE", "class_wiimote.html#ab0237d4cb0460413557d94f439ab7eb8ac3d1f4d3d4fbe7f4aef81f91a722a6fc", null ],
+      [ "BUTTON_B", "class_wiimote.html#ab0237d4cb0460413557d94f439ab7eb8a88858fafec18e15d80552b50b6d9d2d4", null ],
+      [ "BUTTON_A", "class_wiimote.html#ab0237d4cb0460413557d94f439ab7eb8acb32721641e14ad9144716a41a1a6d21", null ],
+      [ "BUTTON_MINUS", "class_wiimote.html#ab0237d4cb0460413557d94f439ab7eb8acad7ed68d2a106eba5a78a88d02a6fa9", null ],
+      [ "BUTTON_HOME", "class_wiimote.html#ab0237d4cb0460413557d94f439ab7eb8a150c8616188e33af068fbb1961931b3e", null ],
+      [ "BUTTON_LEFT", "class_wiimote.html#ab0237d4cb0460413557d94f439ab7eb8ab7a9ccd24abee0b195f63ecccae18987", null ],
+      [ "BUTTON_RIGHT", "class_wiimote.html#ab0237d4cb0460413557d94f439ab7eb8a497d8adb557e625e0629df7523cb9e0d", null ],
+      [ "BUTTON_DOWN", "class_wiimote.html#ab0237d4cb0460413557d94f439ab7eb8ad5c2393c8e7a2d0c9534d0b52270e3d3", null ],
+      [ "BUTTON_UP", "class_wiimote.html#ab0237d4cb0460413557d94f439ab7eb8aebbddd63dc564ac98e381c8ab7772bc2", null ],
+      [ "BUTTON_PLUS", "class_wiimote.html#ab0237d4cb0460413557d94f439ab7eb8ad1594d9ae84c749a1615e3815dec2e99", null ],
+      [ "BUTTON_Z", "class_wiimote.html#ab0237d4cb0460413557d94f439ab7eb8a300eeb7b43d6da82dc29ce74163a2e8c", null ],
+      [ "BUTTON_C", "class_wiimote.html#ab0237d4cb0460413557d94f439ab7eb8a4332ea06792fa211ca8989e475ba0fcf", null ]
+    ] ],
+    [ "Extension", "class_wiimote.html#aa472c8ffea228579f6e05c22cc5d8b21", [
+      [ "NONE", "class_wiimote.html#aa472c8ffea228579f6e05c22cc5d8b21ac2a4608bead09bd89976307b32063993", null ],
+      [ "PARTIALLY_CONNECTED", "class_wiimote.html#aa472c8ffea228579f6e05c22cc5d8b21a8ac3b085ad0c87059e30281e7033f163", null ],
+      [ "NUNCHUK", "class_wiimote.html#aa472c8ffea228579f6e05c22cc5d8b21abf5f2288df75191cac52da0914c9d5b3", null ],
+      [ "CLASSIC_CONTROLLER", "class_wiimote.html#aa472c8ffea228579f6e05c22cc5d8b21a8ef3d81786723bb40c9409bdc37a00e3", null ],
+      [ "MOTIONPLUS", "class_wiimote.html#aa472c8ffea228579f6e05c22cc5d8b21a8ca0a9e656aeb44ee4543cc2acec9a12", null ]
+    ] ],
+    [ "Wiimote", "class_wiimote.html#a95fd3610ec442a0996e5e13b6eaa9ef7", null ],
+    [ "~Wiimote", "class_wiimote.html#a9afc658232d28a4ba4ed5717a9bd75d8", null ],
+    [ "getAcceleration", "class_wiimote.html#a7da03af20a4b488f549052d9ae4bf59b", null ],
+    [ "getAccelerometerValue", "class_wiimote.html#a0357a0b2fb3f11eb8b781e2eb723af9f", null ],
+    [ "getBatteryLevel", "class_wiimote.html#a4e05b0002888593d91d702c5c8dc4faf", null ],
+    [ "getButtonState", "class_wiimote.html#a4449265f62b68d5207f08068bad5901e", null ],
+    [ "getEventCallbacks", "class_wiimote.html#a1bbb0b034682b04cc302814d29125093", null ],
+    [ "getExtensionDevice", "class_wiimote.html#a32af4c7bb707ed1168a62caf813d95bf", null ],
+    [ "getIRTarget", "class_wiimote.html#a5de45c82b73cbb56888c40e33aaf8ab3", null ],
+    [ "getJoystickValue", "class_wiimote.html#a0005255818483f3d101083f20722e951", null ],
+    [ "getNumButtons", "class_wiimote.html#a0c366e8bec9f64079eb9c8691cb1432d", null ],
+    [ "getRawAccelerometerValue", "class_wiimote.html#a6d45c1fac30e53c33568f1cf385efa6a", null ],
+    [ "requestAccelerometers", "class_wiimote.html#a5321e34fdf294be5a43160202782b658", null ],
+    [ "requestContinuousReports", "class_wiimote.html#a68356ac52ac27d5738a69fa22cd4564e", null ],
+    [ "requestIRTracking", "class_wiimote.html#ac701c103841db9a9953026ad385358cb", null ],
+    [ "setLEDState", "class_wiimote.html#aae24e020f21734ad095b9768bdc4af55", null ],
+    [ "setRumble", "class_wiimote.html#aeb0ab7dff9c76d9c07693ec1eaa3e283", null ],
+    [ "waitForEvent", "class_wiimote.html#a7b7d657aea0708734631ec388f7d07f7", null ]
+];

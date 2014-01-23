@@ -1,0 +1,26 @@
+var _g_l_get_material_templates_8h =
+[
+    [ "glGetMaterial", "_g_l_get_material_templates_8h.html#a6e77379e7568d36642c4c01501f9db55", null ],
+    [ "glGetMaterial", "_g_l_get_material_templates_8h.html#a5e6c9a332fbdba773ee677beb9888357", null ],
+    [ "glGetMaterial< 1, GLdouble >", "_g_l_get_material_templates_8h.html#aa35a06a7468a4854e4c0ac7d5443e9af", null ],
+    [ "glGetMaterial< 1, GLfloat >", "_g_l_get_material_templates_8h.html#ac68767c41a493f4e83f843c6302d11bd", null ],
+    [ "glGetMaterial< 1, GLint >", "_g_l_get_material_templates_8h.html#af234473c7be108b0e3727dcf3217fcf3", null ],
+    [ "glGetMaterial< 4, GLdouble >", "_g_l_get_material_templates_8h.html#ad5527ef950f664022d69e5040f665f79", null ],
+    [ "glGetMaterial< 4, GLfloat >", "_g_l_get_material_templates_8h.html#adeea4e280240fd8a027134c4d0a268f5", null ],
+    [ "glGetMaterial< 4, GLint >", "_g_l_get_material_templates_8h.html#a5b923aca905210dfdd18a7afc0c08a71", null ],
+    [ "glGetMaterialAmbient", "_g_l_get_material_templates_8h.html#ae1ed13cc02dd85391592e03a5c12f2a3", null ],
+    [ "glGetMaterialAmbient", "_g_l_get_material_templates_8h.html#af0047c1e7b12df953072f550d8e795b6", null ],
+    [ "glGetMaterialAmbient", "_g_l_get_material_templates_8h.html#a80e9a2e4ecaac99dd526e0d8e1dc9b1c", null ],
+    [ "glGetMaterialColorIndexes", "_g_l_get_material_templates_8h.html#a3ee739d9dedb3c1d879b4ce3c3533fd4", null ],
+    [ "glGetMaterialDiffuse", "_g_l_get_material_templates_8h.html#ac23ecae2f52b302978aa9afd18f294f8", null ],
+    [ "glGetMaterialDiffuse", "_g_l_get_material_templates_8h.html#a2505e9bce4510d90e12235e6383956af", null ],
+    [ "glGetMaterialDiffuse", "_g_l_get_material_templates_8h.html#a4ce6b51542f22cdbcf63e31cc4d3829a", null ],
+    [ "glGetMaterialEmission", "_g_l_get_material_templates_8h.html#ae159937f7973ef1e50039c4c5ec93d8c", null ],
+    [ "glGetMaterialEmission", "_g_l_get_material_templates_8h.html#adf3958df54abe6b9cee47432419bdba4", null ],
+    [ "glGetMaterialEmission", "_g_l_get_material_templates_8h.html#a2e02ba8072543c2328777275fc49f481", null ],
+    [ "glGetMaterialShininess", "_g_l_get_material_templates_8h.html#afcfab8fa91330a5051f1e266469b4e4f", null ],
+    [ "glGetMaterialShininess", "_g_l_get_material_templates_8h.html#aaf57945f00bffe71590812bc0322d7f7", null ],
+    [ "glGetMaterialSpecular", "_g_l_get_material_templates_8h.html#a30a0ed53af3dabb3fd6871175922b8b3", null ],
+    [ "glGetMaterialSpecular", "_g_l_get_material_templates_8h.html#a6d19badc442b18715163b6dc9794dd79", null ],
+    [ "glGetMaterialSpecular", "_g_l_get_material_templates_8h.html#a43bc64056ef6476deb50480f71014295", null ]
+];

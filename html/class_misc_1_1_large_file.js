@@ -1,0 +1,38 @@
+var class_misc_1_1_large_file =
+[
+    [ "OpenError", "class_misc_1_1_large_file_1_1_open_error.html", "class_misc_1_1_large_file_1_1_open_error" ],
+    [ "ReadError", "class_misc_1_1_large_file_1_1_read_error.html", "class_misc_1_1_large_file_1_1_read_error" ],
+    [ "WriteError", "class_misc_1_1_large_file_1_1_write_error.html", "class_misc_1_1_large_file_1_1_write_error" ],
+    [ "Offset", "class_misc_1_1_large_file.html#abeb4df31e0be23d83abe878fffc3173d", null ],
+    [ "Endianness", "class_misc_1_1_large_file.html#abee531f19b56be15f3ff5b5152fbc930", [
+      [ "DontCare", "class_misc_1_1_large_file.html#abee531f19b56be15f3ff5b5152fbc930a0868020c25adbc5196b2e357b7758a44", null ],
+      [ "LittleEndian", "class_misc_1_1_large_file.html#abee531f19b56be15f3ff5b5152fbc930a5b49fcd1649a81c67bcf53e84411c3d1", null ],
+      [ "BigEndian", "class_misc_1_1_large_file.html#abee531f19b56be15f3ff5b5152fbc930af6be7c3eb985850887404fc6b4ad7a00", null ]
+    ] ],
+    [ "LargeFile", "class_misc_1_1_large_file.html#a7d97ea762e1094cf39f6de0f9d970c35", null ],
+    [ "LargeFile", "class_misc_1_1_large_file.html#a27775e105de16fdde8a17a45bb4f09d2", null ],
+    [ "LargeFile", "class_misc_1_1_large_file.html#a188faf08e6919180385dc106b32a09c2", null ],
+    [ "~LargeFile", "class_misc_1_1_large_file.html#a351a509e3eed3e24e89c36cdfb9b4e4e", null ],
+    [ "eof", "class_misc_1_1_large_file.html#a1e8d9a82f74d144434c83c319b59219f", null ],
+    [ "getc", "class_misc_1_1_large_file.html#a5727ae5a0e1196a29b26b4b64ee96216", null ],
+    [ "getEndianness", "class_misc_1_1_large_file.html#ab0c7129308780701cd2bc07a9a10a1ef", null ],
+    [ "getFilePtr", "class_misc_1_1_large_file.html#ab6b0a6edaa629b5f113e2dff3349d721", null ],
+    [ "gets", "class_misc_1_1_large_file.html#ad612188dc5184c1c2facf8e4c65b4422", null ],
+    [ "mustSwapOnRead", "class_misc_1_1_large_file.html#a53638090d6e9f21ca0d631f9c05330b8", null ],
+    [ "mustSwapOnWrite", "class_misc_1_1_large_file.html#ac424a7e3a79d3d85ee105d2709915347", null ],
+    [ "puts", "class_misc_1_1_large_file.html#a70ee325bc1e63cfdc5237cc8e922d8f8", null ],
+    [ "read", "class_misc_1_1_large_file.html#a09b02be67339361cdbfa05555c4733bc", null ],
+    [ "read", "class_misc_1_1_large_file.html#a027dcc8cbdcbed5fa90e0b950e3a27c0", null ],
+    [ "read", "class_misc_1_1_large_file.html#a2f6c3d289528bb7f18e26d7bb4535527", null ],
+    [ "readRaw", "class_misc_1_1_large_file.html#ad7addc2e2f7ce7c8cfcbf94206e96af2", null ],
+    [ "rewind", "class_misc_1_1_large_file.html#afa48f53fb9efd129978cf3c96a36f93b", null ],
+    [ "seekCurrent", "class_misc_1_1_large_file.html#a3f7da1f536db75b65982e4b21cb2a2c0", null ],
+    [ "seekEnd", "class_misc_1_1_large_file.html#a6b66a88fe8519d66156eb91a4cc9c254", null ],
+    [ "seekSet", "class_misc_1_1_large_file.html#af2d59462bafa51af22272645ca18c56b", null ],
+    [ "setEndianness", "class_misc_1_1_large_file.html#aa5aa90d3f31581d6d51ede8157e73493", null ],
+    [ "tell", "class_misc_1_1_large_file.html#a828b37f214a2896e7db0d83ee07fcafd", null ],
+    [ "ungetc", "class_misc_1_1_large_file.html#ad3fa036e27c4f00ddf07ceb733c7de91", null ],
+    [ "write", "class_misc_1_1_large_file.html#a294d013a4e4bf56f26aee00b58f2ff36", null ],
+    [ "write", "class_misc_1_1_large_file.html#a0b0ab300b9af51f9343ae46f134bc81b", null ],
+    [ "writeRaw", "class_misc_1_1_large_file.html#a855a1c84e75a15eb4c296fee4db463f0", null ]
+];

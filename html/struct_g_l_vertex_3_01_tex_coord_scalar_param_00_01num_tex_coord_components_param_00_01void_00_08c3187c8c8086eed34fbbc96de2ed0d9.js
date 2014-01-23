@@ -1,0 +1,9 @@
+var struct_g_l_vertex_3_01_tex_coord_scalar_param_00_01num_tex_coord_components_param_00_01void_00_08c3187c8c8086eed34fbbc96de2ed0d9 =
+[
+    [ "Position", "struct_g_l_vertex_3_01_tex_coord_scalar_param_00_01num_tex_coord_components_param_00_01void_00_08c3187c8c8086eed34fbbc96de2ed0d9.html#ae2b96089845dd39804519b5d3d87f2b3", null ],
+    [ "TexCoord", "struct_g_l_vertex_3_01_tex_coord_scalar_param_00_01num_tex_coord_components_param_00_01void_00_08c3187c8c8086eed34fbbc96de2ed0d9.html#ab22071d35f4484171a00cb789c6f44f8", null ],
+    [ "GLVertex", "struct_g_l_vertex_3_01_tex_coord_scalar_param_00_01num_tex_coord_components_param_00_01void_00_08c3187c8c8086eed34fbbc96de2ed0d9.html#af4e5d88e82096ffd8c5fadd928eebf36", null ],
+    [ "GLVertex", "struct_g_l_vertex_3_01_tex_coord_scalar_param_00_01num_tex_coord_components_param_00_01void_00_08c3187c8c8086eed34fbbc96de2ed0d9.html#a004b090b3a22e87f644b9db613474fa3", null ],
+    [ "position", "struct_g_l_vertex_3_01_tex_coord_scalar_param_00_01num_tex_coord_components_param_00_01void_00_08c3187c8c8086eed34fbbc96de2ed0d9.html#afb050c12cbe1942e628accd745239dbd", null ],
+    [ "texCoord", "struct_g_l_vertex_3_01_tex_coord_scalar_param_00_01num_tex_coord_components_param_00_01void_00_08c3187c8c8086eed34fbbc96de2ed0d9.html#a604ff80a9bc037994500e49718512e40", null ]
+];

@@ -1,0 +1,28 @@
+var class_v_r_device_manager =
+[
+    [ "DeviceFactoryManager", "class_v_r_device_manager_1_1_device_factory_manager.html", "class_v_r_device_manager_1_1_device_factory_manager" ],
+    [ "CalibratorFactoryManager", "class_v_r_device_manager.html#a925b15bef120803397fa50cf9b284e2f", null ],
+    [ "VRDeviceManager", "class_v_r_device_manager.html#a55cb7677339ebb07eb5160de7473a6f2", null ],
+    [ "~VRDeviceManager", "class_v_r_device_manager.html#aafeadc1314c23d1e29e48a5592d72cf6", null ],
+    [ "addButton", "class_v_r_device_manager.html#abdeecf95afb3cffdce5002b19bc71d15", null ],
+    [ "addTracker", "class_v_r_device_manager.html#a3d08957809e7c2748a3f24f36d3160b8", null ],
+    [ "addValuator", "class_v_r_device_manager.html#a9f95e7a55145e84fbd998942606db4f9", null ],
+    [ "addVirtualDevice", "class_v_r_device_manager.html#a96cba3fef1f867f503b7cea98d0be228", null ],
+    [ "createCalibrator", "class_v_r_device_manager.html#a8c3657aa23714c200a092ff9ab0edc4b", null ],
+    [ "disableTrackerUpdateNotification", "class_v_r_device_manager.html#addd1dfa1dc8bd862d4e0aead4527aa3d", null ],
+    [ "enableTrackerUpdateNotification", "class_v_r_device_manager.html#a458be78827c9d421a4e66f3c62e74c2d", null ],
+    [ "getButtonIndexBase", "class_v_r_device_manager.html#ab049d087f8df6c5a29157999d2930f0d", null ],
+    [ "getNumVirtualDevices", "class_v_r_device_manager.html#a1398d7c338b9ca37392d67904411b7ec", null ],
+    [ "getState", "class_v_r_device_manager.html#ac79f12a13b639acca2b327d6d76f73b4", null ],
+    [ "getTrackerIndexBase", "class_v_r_device_manager.html#ae04c4d8a6122f4ed05a69d3bc6a8f6c1", null ],
+    [ "getValuatorIndexBase", "class_v_r_device_manager.html#a2f7a7b4c05a0ac4812d022b463265a0b", null ],
+    [ "getVirtualDevice", "class_v_r_device_manager.html#a5b6b0188cc4c673a4e2113c145a7f237", null ],
+    [ "lockState", "class_v_r_device_manager.html#a2465637f14263cd03c93d2611211705e", null ],
+    [ "setButtonState", "class_v_r_device_manager.html#a5dbe22a410d6811260c0626fb41bb4b0", null ],
+    [ "setTrackerState", "class_v_r_device_manager.html#abb38bfcaecc56d8f03972120d919df17", null ],
+    [ "setValuatorState", "class_v_r_device_manager.html#a311ed177c1ec3e2dc7441461f5924220", null ],
+    [ "start", "class_v_r_device_manager.html#ade8aca0024af6b2d2e86173e847945a5", null ],
+    [ "stop", "class_v_r_device_manager.html#a641e0a7ca95754db76f4eab7fdbd8e13", null ],
+    [ "unlockState", "class_v_r_device_manager.html#a06e3d7e25c9c1a4491392bce99e6762f", null ],
+    [ "updateState", "class_v_r_device_manager.html#a8065fb164c4135cf6101d7517607c1e1", null ]
+];

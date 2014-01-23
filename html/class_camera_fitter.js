@@ -1,0 +1,25 @@
+var class_camera_fitter =
+[
+    [ "Derivative", "class_camera_fitter.html#aa656d5a76ff8528ca9d030a3183d28ed", null ],
+    [ "Pixel", "class_camera_fitter.html#aa1e044832245242db68e3a6e57c6fb19", null ],
+    [ "Point", "class_camera_fitter.html#ad3baa3ef361925f73ff0f19bb68c18f0", null ],
+    [ "Scalar", "class_camera_fitter.html#a8eeb5b63ce891b689353e17d8986619f", null ],
+    [ "Transform", "class_camera_fitter.html#abea1712b9526aa050f4bd4d71c82fe20", null ],
+    [ "Vector", "class_camera_fitter.html#a1106937e043b4a192e1f8c7a2f19d326", null ],
+    [ "CameraFitter", "class_camera_fitter.html#ad00e7ec850309cfc2778a02be0dcb7de", null ],
+    [ "calcDistance", "class_camera_fitter.html#a5d36605228bdc13def5482f5e576f058", null ],
+    [ "calcDistanceDerivative", "class_camera_fitter.html#a7add7384880807d2254dd4e5c2cebbb9", null ],
+    [ "calcMag", "class_camera_fitter.html#a55545d9627e92bc3fa28582f00f7b500", null ],
+    [ "getNumPoints", "class_camera_fitter.html#a96c1b49cd7eca1c7e72349b51f311bd2", null ],
+    [ "getTransform", "class_camera_fitter.html#a81d7908309f5a082d045e81b357906f7", null ],
+    [ "increment", "class_camera_fitter.html#a7aff774c233f4c3fa59b42ae40652e59", null ],
+    [ "invalidatePixel", "class_camera_fitter.html#a202bbe0d8ee3dfadf2ed5fa94c56060b", null ],
+    [ "normalize", "class_camera_fitter.html#aef9448d97ad8ef21242b2d580609bf8f", null ],
+    [ "project", "class_camera_fitter.html#a4294c24dcab87dd20971fad363bba070", null ],
+    [ "project", "class_camera_fitter.html#a6ef29556800080d7324eb98475725431", null ],
+    [ "restore", "class_camera_fitter.html#ac7576bae157297e2b1d93f3e76419540", null ],
+    [ "save", "class_camera_fitter.html#a055ecbd15cf3a153b2d625acade5eec3", null ],
+    [ "setPixel", "class_camera_fitter.html#a524e1a27808d0b423599919074a772d7", null ],
+    [ "setTargetPoint", "class_camera_fitter.html#acfde61851f7cac32cf295d2ed1f61438", null ],
+    [ "setTransform", "class_camera_fitter.html#acb1cf9babd2f569dfeb7cdab0102a59f", null ]
+];

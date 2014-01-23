@@ -1,0 +1,7 @@
+var struct_g_l_geometry_1_1_vertex_3_01void_00_010_00_01void_00_010_00_01void_00_01_position_scalar_e5cac2049f1b8a9914baed798775200d =
+[
+    [ "Position", "struct_g_l_geometry_1_1_vertex_3_01void_00_010_00_01void_00_010_00_01void_00_01_position_scalar_e5cac2049f1b8a9914baed798775200d.html#ac0f8f92bc544a77c4500a87ffaa33eb2", null ],
+    [ "Vertex", "struct_g_l_geometry_1_1_vertex_3_01void_00_010_00_01void_00_010_00_01void_00_01_position_scalar_e5cac2049f1b8a9914baed798775200d.html#a85790cf76b50286f549da2c8811f9d1b", null ],
+    [ "Vertex", "struct_g_l_geometry_1_1_vertex_3_01void_00_010_00_01void_00_010_00_01void_00_01_position_scalar_e5cac2049f1b8a9914baed798775200d.html#ade79dcd81a765c310a826a106cbd3d4d", null ],
+    [ "position", "struct_g_l_geometry_1_1_vertex_3_01void_00_010_00_01void_00_010_00_01void_00_01_position_scalar_e5cac2049f1b8a9914baed798775200d.html#a3e86e3608a7665c8fdfb872a87662777", null ]
+];
